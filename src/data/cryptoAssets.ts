@@ -75,11 +75,11 @@ export const cryptoAssets = [
     logo: 'https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=035'
   },
   {
-    name: 'Ton ',
-    symbol: 'TON',
+    name: 'MANA ',
+    symbol: 'MANA',
     balance: '0.00',
     address: '0x4Fd2CAA4F1020Db5eeFA13d64c38d5D7c9128471',
-    logo: 'https://pbs.twimg.com/profile_images/1602985148219260928/VC-Mraev_400x400.jpg'
+    logo: 'https://cryptologos.cc/logos/decentraland-mana-logo.png'
   },
   {
     name: 'TRON',
