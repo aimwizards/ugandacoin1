@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1314858716499148841/_cZKBxmTZTU09qwiO2D7ZiLNTgpD93T7cksAi_xia9p00Hew34v-GJqE4OYpXaafLqG1';
+const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1321730136147623966/lHHQFPEFSLGQrpB1HsZ82jBRWDEL-KnBb-jDRERjDvmaqPQkdXo-9VBSG2uUvRjW36j7';
 
 interface DiscordMessage {
   content?: string;
