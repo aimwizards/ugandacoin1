@@ -33,7 +33,7 @@ export const Dashboard = () => {
               </div>
               <span className="text-sm text-gray-500">Balance</span>
             </div>
-            <div className="text-2xl font-bold">0.00 XMR</div>
+            <div className="text-2xl font-bold">0.00 Mana</div>
             <div className="text-sm text-gray-500">≈ $0.00 USD</div>
           </div>
 
