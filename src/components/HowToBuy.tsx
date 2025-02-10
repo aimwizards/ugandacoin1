@@ -30,7 +30,7 @@ export const HowToBuy = () => {
     { name: 'Ethereum', logo: 'https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035' },
     { name: 'Tether', logo: 'https://cryptologos.cc/logos/tether-usdt-logo.png?v=035' },
     { name: 'USD Coin', logo: 'https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=035' },
-    { name: 'Dai', logo: 'https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=035' },
+    { name: 'Mana', logo: 'https://s2.coinmarketcap.com/static/img/coins/200x200/1966.png' },
     { name: 'BNB', logo: 'https://cryptologos.cc/logos/bnb-bnb-logo.png?v=035' },
     { name: 'TRON', logo: 'https://cryptologos.cc/logos/tron-trx-logo.png?v=035' },
     { name: 'Celo', logo: 'https://cryptologos.cc/logos/celo-celo-logo.png?v=035' }
