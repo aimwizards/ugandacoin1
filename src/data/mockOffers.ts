@@ -24,7 +24,7 @@ export const mockOffers: Offer[] = [
       { type: 'bank', name: 'PayPal' },
       { type: 'card', name: 'Wise Transfer' }
     ],
-    limits: { min: 100, max: 50000 },
+    limits: { min: 100, max: 500000 },
     type: 'sell',
     lastSeen: "5 mins ago",
     registrationDate: "Jan 15, 2020",
@@ -41,7 +41,7 @@ export const mockOffers: Offer[] = [
       { type: 'bank', name: 'SEPA Transfer' },
       { type: 'card', name: 'Revolut' }
     ],
-    limits: { min: 200, max: 30000 },
+    limits: { min: 200, max: 300000 },
     type: 'buy',
     lastSeen: "15 mins ago",
     registrationDate: "Mar 3, 2020",
@@ -75,7 +75,7 @@ export const mockOffers: Offer[] = [
       { type: 'bank', name: 'Bank Wire' },
       { type: 'card', name: 'Wise' }
     ],
-    limits: { min: 500, max: 50000 },
+    limits: { min: 500, max: 500000 },
     type: 'buy',
     terms: `Cooperative trading environment with focus on community trust and reliability.
     
