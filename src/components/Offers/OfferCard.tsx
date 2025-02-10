@@ -43,7 +43,7 @@ export const OfferCard = ({
         </div>
         <div className="text-right">
           <div className="text-2xl font-bold">${price.toLocaleString()}</div>
-          <div className="text-sm text-gray-600">per XMR</div>
+          <div className="text-sm text-gray-600">per Mana</div>
         </div>
       </div>
       
@@ -61,7 +61,7 @@ export const OfferCard = ({
         to={`/trade/${username}`}
         className="block w-full text-center bg-indigo-600 text-white py-2 rounded-lg hover:bg-indigo-700 transition-colors"
       >
-        {type === 'buy' ? 'Buy XMR' : 'Sell XMR'}
+        {type === 'buy' ? 'Buy Mana' : 'Sell Mana'}
       </Link>
     </div>
   );
