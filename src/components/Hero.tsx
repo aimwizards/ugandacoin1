@@ -6,11 +6,11 @@ export const Hero = () => {
     <div className="bg-gradient-to-b from-indigo-50 to-white py-16">
       <div className="max-w-7xl mx-auto px-4 text-center">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-          Buy and Sell Monero,
+          Buy and Sell Mana,
           <span className="text-indigo-600"> Securely</span>
         </h1>
         <p className="text-xl text-gray-600 mb-12 max-w-2xl mx-auto">
-          The most trusted P2P platform for Monero trading. Fast, secure, and private.
+          The most trusted P2P platform for Mana trading. Fast, secure, and private.
         </p>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
