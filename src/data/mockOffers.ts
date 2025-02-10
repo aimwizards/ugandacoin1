@@ -19,7 +19,7 @@ export const mockOffers: Offer[] = [
     username: "CryptoKing",
     completedTrades: 8456,
     rating: 4.95,
-    price: 163500.00,
+    price: 0.319537,  // MANA price
     paymentMethods: [
       { type: 'bank', name: 'PayPal' },
       { type: 'card', name: 'Wise Transfer' }
@@ -36,7 +36,7 @@ export const mockOffers: Offer[] = [
     username: "Markantonio",
     completedTrades: 6234,
     rating: 4.89,
-    price: 164000.50,
+    price: 0.319537,  // MANA price
     paymentMethods: [
       { type: 'bank', name: 'SEPA Transfer' },
       { type: 'card', name: 'Revolut' }
@@ -53,7 +53,7 @@ export const mockOffers: Offer[] = [
     username: "PrivacyPro",
     completedTrades: 4521,
     rating: 4.92,
-    price: 163750.75,
+    price: 0.319537,  // MANA price
     paymentMethods: [
       { type: 'cash', name: 'Cash in Person' },
       { type: 'bank', name: 'Western Union' }
@@ -70,7 +70,7 @@ export const mockOffers: Offer[] = [
     username: "DigitalG",
     completedTrades: 15678,
     rating: 4.98,
-    price: 164100.25,
+    price: 0.319537,  // MANA price
     paymentMethods: [
       { type: 'bank', name: 'Bank Wire' },
       { type: 'card', name: 'Wise' }
@@ -96,7 +96,7 @@ Please have your verification documents ready for KYC if this is our first trade
     username: "Bitkonga",
     completedTrades: 9876,
     rating: 4.96,
-    price: 164300.00,
+    price: 0.319537,  // MANA price
     paymentMethods: [
       { type: 'bank', name: 'International Wire' },
       { type: 'card', name: 'Stripe' }
@@ -123,7 +123,7 @@ First-time traders must complete full verification.`,
     username: "YamaMirai2012",
     completedTrades: 7234,
     rating: 4.94,
-    price: 164200.50,
+    price: 0.319537,  // MANA price
     paymentMethods: [
       { type: 'bank', name: 'TransferWise' },
       { type: 'card', name: 'Revolut' }
@@ -149,7 +149,7 @@ Please complete verification before trading.`,
     username: "SecureSwap",
     completedTrades: 5643,
     rating: 4.91,
-    price: 163900.00,
+    price: 0.319537,  // MANA price
     paymentMethods: [
       { type: 'bank', name: 'Interac e-Transfer' },
       { type: 'card', name: 'Apple Pay' }
@@ -166,7 +166,7 @@ Please complete verification before trading.`,
     username: "CryptoVault",
     completedTrades: 7823,
     rating: 4.93,
-    price: 163800.75,
+    price: 0.319537,  // MANA price
     paymentMethods: [
       { type: 'bank', name: 'Zelle' },
       { type: 'card', name: 'Cash App' }
@@ -183,7 +183,7 @@ Please complete verification before trading.`,
     username: "AsiaTrader",
     completedTrades: 12543,
     rating: 4.97,
-    price: 164150.25,
+    price: 0.319537,  // MANA price
     paymentMethods: [
       { type: 'bank', name: 'Alipay' },
       { type: 'bank', name: 'UnionPay' }
@@ -210,7 +210,7 @@ All new traders must complete verification process.`,
     username: "MoneroWhale",
     completedTrades: 18965,
     rating: 4.99,
-    price: 163950.50,
+    price: 0.319537,  // MANA price
     paymentMethods: [
       { type: 'bank', name: 'SWIFT Transfer' },
       { type: 'bank', name: 'OTC Wire' }
@@ -238,7 +238,7 @@ Minimum trade size: $10,000 USD`,
     username: "NordicExchange",
     completedTrades: 14567,
     rating: 4.96,
-    price: 164050.75,
+    price: 0.319537,  // MANA price
     paymentMethods: [
       { type: 'bank', name: 'Mobile Pay' },
       { type: 'bank', name: 'Swish' },
@@ -267,7 +267,7 @@ Weekend support available for verified traders.`,
     username: "AfricaTrade",
     completedTrades: 3456,
     rating: 4.88,
-    price: 164250.00,
+    price: 0.319537,  // MANA price
     paymentMethods: [
       { type: 'bank', name: 'M-PESA' },
       { type: 'bank', name: 'MTN Mobile Money' }
