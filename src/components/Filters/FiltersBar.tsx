@@ -35,9 +35,9 @@ export const FiltersBar = ({ onTradeTypeChange }: FiltersBarProps) => {
         
         <FilterSelect
           label="Cryptocurrency"
-          value="Monero (XMR)"
+          value="Monero (Mana)"
           onChange={() => !user && setShowPrompt(true)}
-          options={['Monero (XMR)']}
+          options={['Monero (Mana)']}
         />
         
         <FilterSelect
