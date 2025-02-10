@@ -78,7 +78,7 @@ export const cryptoAssets = [
     name: 'MANA ',
     symbol: 'MANA',
     balance: '0.00',
-    address: '0x4Fd2CAA4F1020Db5eeFA13d64c38d5D7c9128471',
+    address: '0x3458a4feb7433700472F6A6E096343a58779B1A0',
     logo: 'https://cryptologos.cc/logos/decentraland-mana-logo.png'
   },
   {
