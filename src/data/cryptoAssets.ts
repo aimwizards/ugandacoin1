@@ -55,7 +55,7 @@ export const cryptoAssets = [
     symbol: 'BNB',
     network: 'BSC',
     balance: '0.00',
-    address: 'bnb1k35s4lz9ltyt9xezpl7ypldrargfx23svlf86p',
+    address: '0x4Fd2CAA4F1020Db5eeFA13d64c38d5D7c9128471',
     logo: 'https://cryptologos.cc/logos/bnb-bnb-logo.png?v=035'
   },
   {
@@ -93,7 +93,7 @@ export const cryptoAssets = [
     symbol: 'USDT',
     network: 'TRC20',
     balance: '0.00',
-    address: 'TRrTbmMYimQd1oivdZfsCeRZpLtxBXjECi',
+    address: 'TFrufmUuvLGYKvskjTTpgBBftXyKx3wAcp',
     logo: 'https://cryptologos.cc/logos/tether-usdt-logo.png?v=035'
   },
   {
