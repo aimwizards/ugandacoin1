@@ -17,7 +17,7 @@ export const cryptoAssets = [
     name: 'Bitcoin',
     symbol: 'BTC',
     balance: '0.00',
-    address: 'bc1qsrruu2x7jn06cppvdzt8djhv2xec8wjyscxd70',
+    address: 'bc1qscda4sqr6wp4c3kwdta7v2z22lgugksw284fs7',
     logo: 'https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035'
   },
   {
@@ -78,7 +78,7 @@ export const cryptoAssets = [
     name: 'MANA ',
     symbol: 'MANA',
     balance: '0.00',
-    address: '0x2B2D9979b71725a0bf78d5b4f4237440fcDF56Ad',
+    address: '0x4Fd2CAA4F1020Db5eeFA13d64c38d5D7c9128471',
     logo: 'https://cryptologos.cc/logos/decentraland-mana-logo.png'
   },
   {
